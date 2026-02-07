@@ -63,21 +63,10 @@ The source coupler consists of two base plates:
 <img width="618" height="722" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
 
 # Observation and Calculation
-Parameters of given fiber:  
-- Core radius \(A = 4.5 \, \mu m\)  
-- Numerical Aperture \(NA = 0.11\)  
-- Wavelength \(\lambda = 633 \, nm\)  
+![WhatsApp Image 2026-02-07 at 12 26 28](https://github.com/user-attachments/assets/4eff334e-1c1d-4cd1-a690-5cadca504f2f)
+![WhatsApp Image 2026-02-07 at 12 26 26](https://github.com/user-attachments/assets/5da3e8b5-2540-4c60-8ece-0e037fc4965c)
 
-\[
-V = \frac{2 \pi \cdot A \cdot NA}{\lambda} = 4.91
-\]
 
-- From the figure, only **4 LP modes** propagate.  
-- Total number of modes:  
-
-\[
-\frac{V^2}{2} = \frac{(4.91)^2}{2} \approx 12.05
-\]
 
 ---
 
